@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navMid{
+    display: flex;
+    margin-top: -26px;
+    justify-content: space-evenly;
+    margin-left: 250px;
+    margin-right: 185px; 
+}
+#navMid h4:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+#navEnd div{
+    float: right;
+    width: 20px;
+    margin-right: 200px;
+    margin-top: -20px;
+}
+.nav2{
+    margin-left: 600px;
+}
+.nav1{
+    margin-left: 300px;
+}
+#imgMain{
+    float: right;
+    margin-top: -555px;
+    margin-bottom: 0px;
+    padding: 0px;
+    height: 600px;
+}
+.midWholePart13Parts{
+    display: inline-block;
+}
+#midWholePart13{
+    margin-top: 55px;
+    margin-left: 130px;
+}
+.text{
+    width: 200px;
+    margin-left: 96px;
+    margin-top: 4px;
+}
+.text1{
+    width: 200px;
+    margin-left: 96px;
+    margin-top: -63px;
+}
+#feeding{
+    height: 60px;
+    margin-left: 23px;
+}
+#light{
+    margin-left: 45px;
+}
+#care{
+    margin-left: 30px;
+}
+#monstera{
+    width: 500px;
+    margin-top: 175px;
+    /* margin-left: 73px; */
+    font-size: 100px;
+}
+#midWholePart11{
+    margin-left: 100px;
+}
+.word{
+    width: 600px;
+    letter-spacing: 1px;
+}
+#btn{
+    width: 145px;
+    font-weight: 100;
+    font-size: 20px;
+    margin-left: 90px;
+    margin-top: 45px;
+    padding: 10px 24px;
+    border: 2px solid green;
+    text-align: center;
+    border-radius: 25px;
+    background: green;
+    color: white;
+}
+#navFirst{
+    margin-left: 110px;
+    margin-top: 20px;
+    height: 40px;
+}
+
+
+
+
+
